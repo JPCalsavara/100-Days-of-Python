@@ -29,8 +29,7 @@ The projects are divided into three categories: **Beginner**, **Intermediate**, 
 ---
 
 ### Avançado | Advanced  
-(Adicione aqui os projetos avançados conforme forem concluídos.)  
-(Add advanced projects here as they are completed.)  
+  
 
 ---
 
