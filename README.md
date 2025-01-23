@@ -34,7 +34,13 @@ The projects are divided into three categories: **Beginner**, **Intermediate**, 
 
 ---
 
+## Competências Aprendidas | Skills Learned  
+- **Lógica de programação** | Programming Logic  
+- **POO (Programação Orientada a Objetos)** | OOP (Object-Oriented Programming)  
+- **Uso de bibliotecas** | Library Usage  
+- **Leitura de documentação** | Documentation Reading  
+
+---
+
 Sinta-se à vontade para explorar os projetos e contribuir!  
 Feel free to explore the projects and contribute!
-
-  
