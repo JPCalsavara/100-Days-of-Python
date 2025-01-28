@@ -7,6 +7,13 @@ All the projects and studies based on the course below:
 
 ---
 
+## Parquinho dos Dias | Days' Playground  
+
+Notas de estudo e códigos para aprender e fixar novos conteúdos pela primeira vez.  
+Study notes and code to learn and solidify new concepts for the first time.  
+
+---
+
 ## Estrutura dos Projetos | Project Structure  
 Os projetos estão divididos em três categorias: **Iniciante**, **Intermediário**, **Avançado** e **Baseados**.  
 The projects are divided into three categories: **Beginner**, **Intermediate**,**Advanced** and **Based**.  
@@ -61,17 +68,17 @@ Advanced projects only begin in the bootcamp's last third.
 Navegue até a pasta baixada usando:
 Navigate to the downloaded folder using:
 
-```bash
-cd 100-Days-of-Python
-```
+   ```bash
+   cd 100-Days-of-Python
+   ```
 
 4. Escolha e Acesse o Diretório do Projeto
 Dentro da pasta principal, escolha o diretório do projeto que deseja executar:
 Inside the main folder, choose the directory of the project you want to run:
 
-```bash
-cd beginner/hangman
-```
+   ```bash
+   cd beginner/hangman
+   ```
 (Substitua beginner/hangman pelo diretório do projeto desejado.)
 (Replace beginner/hangman with the desired project directory.)
 
@@ -79,17 +86,17 @@ cd beginner/hangman
 Caso o projeto tenha um arquivo requirements.txt, instale as dependências:
 If the project has a requirements.txt file, install the dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 6. Execute o Projeto
 Para rodar o projeto, execute o arquivo principal, geralmente main.py:
 To run the project, execute the main file, usually main.py:
 
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```
 Agora você está pronto para explorar e executar qualquer projeto deste repositório! 🚀
 Now you're ready to explore and run any project in this repository! 🚀
-3.
+
