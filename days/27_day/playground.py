@@ -27,10 +27,17 @@
 #.get make return none if the attribute is empty
 #Allow to create infinite attributes and their values
 
-class Car:
-    def __init__(self,**kw):
-        self.make = kw.get("make")
-        self.model = kw.get("model")
+# class Car:
+#     def __init__(self,**kw):
+#         self.make = kw.get("make")
+#         self.model = kw.get("model")
+#
+# new_car = Car(make="Volkswagen", model="Nivus")
+# print(new_car.make,new_car.model)
 
-new_car = Car(make="Volkswagen", model="Nivus")
-print(new_car.make,new_car.model)
+def test(*args):
+    print(args)
+
+    type(*args)
+
+test(1, 2, 3, 5)
