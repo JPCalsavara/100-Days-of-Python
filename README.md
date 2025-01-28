@@ -74,7 +74,6 @@ Navigate to the downloaded folder using:
 
 4. Escolha e Acesse o Diretório do Projeto
 Dentro da pasta principal, escolha o diretório do projeto que deseja executar:
-
 Inside the main folder, choose the directory of the project you want to run:
 
    ```bash
@@ -85,7 +84,6 @@ Inside the main folder, choose the directory of the project you want to run:
 
 5. Instale Dependências (se necessário)
 Caso o projeto tenha um arquivo requirements.txt, instale as dependências:
-
 If the project has a requirements.txt file, install the dependencies:
 
    ```bash
@@ -94,7 +92,6 @@ If the project has a requirements.txt file, install the dependencies:
 
 7. Execute o Projeto
 Para rodar o projeto, execute o arquivo principal, geralmente main.py:
-
 To run the project, execute the main file, usually main.py:
 
    ```bash
