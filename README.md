@@ -55,7 +55,7 @@ Advanced projects only begin in the bootcamp's last third.
 2. Clone o repositório para o seu computador executando o comando abaixo no terminal:  
    Clone the repository to your computer by running the command below in the terminal:  
    ```bash
-   git clone https://github.com/usuario/100-Days-of-Python.git
+   git clone https://github.com/JPCalsavara/100-Days-of-Python.git
 
 3. Acesse o Diretório do Repositório
 Navegue até a pasta baixada usando:
