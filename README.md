@@ -33,6 +33,7 @@ The projects are divided into three categories: **Beginner**, **Intermediate**,*
 - **Pong**  
 - **Tartaruga cruzando a rua** | Turtle Crossing the Road
 - **Descubra os 50 Estados dos Estados Unidos** | Find the 50 states of USA
+- **Pomodoro**
 
 ---
 
@@ -44,6 +45,7 @@ Advanced projects only begin in the bootcamp's last third.
 ### Baseados | Based
 - **Descubra os 26 Estados dos Brasil** | Find the 26 states of Brazil
 - **Transformador de palavras em alfabeto da Xuxa** | Word transformer in Xuxa´s Alphabet
+- **Carota**
 
 ---
 
