@@ -1,8 +1,8 @@
 #Learned attributes and functions
 #.grid(rowspan=) to make an object fill two or more columns
-#.focus() to make the cursor starts in the object
-#.insert(index of the start of the data in the array, string inserted)
-#.delete(index of the start of the data in the array, last character like END)
+#label.focus() to make the cursor starts in the object
+#label.insert(index of the start of the data in the array, string inserted)
+#label.delete(index of the start of the data in the array, last character like END)
 #pyperclip.clip to copy a string
 
 from tkinter import *
