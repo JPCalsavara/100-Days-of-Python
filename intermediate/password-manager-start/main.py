@@ -5,9 +5,39 @@
 #label.delete(index of the start of the data in the array, last character like END)
 #pyperclip.clip to copy a string
 
+#JSON
+#Type of data that organize information like a dictionary
+#Main methods
+#json.write(dictionary that you want to write, file) to write in the file.json
+#json.load(file) - to import a json like a dictionary
+
+import json
 from tkinter import *
 from tkinter import messagebox
 import pyperclip
+
+# ---------------------------- SEARCH WEBSITE ------------------------------- #
+def search_website():
+    website = entry_website.get().title()
+
+    if len(website)==0:
+        messagebox.showinfo(title="Oops",message="Don´t put the website name")
+
+    else:
+        try:
+            with open("data.json", "r") as data_file:
+                    #Read old data
+                    data = json.load(data_file)
+        except FileNotFoundError:
+            messagebox.showinfo(title="Oops", message="No Data File Found")
+
+        else:
+            try:
+                website_data = data[website]
+            except KeyError:
+                messagebox.showinfo(title="Oops", message="No details for the website exits")
+            else:
+                messagebox.showinfo(title=f"{website}´s password", message=f"Email: {website_data["email"]}\nPassword: {website_data["password"]}\n")
 
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
@@ -36,23 +66,38 @@ def save_password():
     email_username = entry_email.get()
     password = entry_password.get()
 
+    new_data = {
+        website:{
+            "email": email_username,
+            "password":password
+        }
+    }
+
     if len(website)==0 or len(password)==0:
         messagebox.showinfo(title="Oops",message="Don't leave any field empty!!!")
         is_ok = False
     else:
-        is_ok = messagebox.askokcancel(title="website",message=f"These are the data inserted:"
-                                                      f"\nEmail:{email_username}"
-                                                      f"\nPassword:{password}"
-                                                      f"\nIs it ok to save?")
+        try:
+            with open("data.json", "r") as data_file:
+                    #Read old data
+                    data = json.load(data_file)
 
+        except FileNotFoundError:
+            with open("data.json", "w") as data_file:
+                json.dump(new_data, data_file, indent=4)
 
-    if is_ok:
-        with open("data.txt","a") as data:
-            data.write(f"{website} | {email_username} | {password}\n")
+        else:
+            #Uptading old to new data to continue to be an order dictionary
+            data.uptade(new_data)
 
-        entry_website.delete(0,END)
-        entry_password.delete(0, END)
-        entry_website.focus()
+            with open("data.json", "w") as data_file:
+                #Saving updated data
+                json.dump(data,data_file,indent=4)
+
+        finally:
+            entry_website.delete(0,END)
+            entry_password.delete(0, END)
+            entry_website.focus()
 
 
 # ---------------------------- UI SETUP ------------------------------- #
@@ -82,8 +127,8 @@ label_password = Label(text="Password:")
 label_password.grid(column=0,row=3)
 
 #Entries
-entry_website =  Entry(width=50)
-entry_website.grid(column=1,row=1,columnspan=2)
+entry_website =  Entry(width=32)
+entry_website.grid(column=1,row=1)
 entry_website.focus()
 
 entry_email =    Entry(width=50)
@@ -99,6 +144,9 @@ button_generate_password.grid(column=2,row=3)
 
 button_add_password = Button(text="Add Password",width=43,command=save_password)
 button_add_password.grid(column=1,row=4,columnspan=3)
+
+button_search_website = Button(text="Search",width=15,command=search_website)
+button_search_website.grid(column=2,row=1)
 
 
 window.mainloop()
