@@ -35,6 +35,7 @@ The projects are divided into three categories: **Beginner**, **Intermediate**,*
 - **Descubra os 50 Estados dos Estados Unidos** | Find the 50 states of USA
 - **Pomodoro**
 - **Gerenciador de Senhas** | Password Manager
+- **Flashcards** 
 
 ---
 
