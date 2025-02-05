@@ -1,0 +1,250 @@
+[33mcommit 3d018307422c692e57d9a6bb0c18df73b280ff57[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Tue Feb 4 19:11:56 2025 -0300
+
+    Finished day 36. It finished Stock Market Alert, but with problem with dotenv
+
+[33mcommit dc2ffb8fef90b58901094c7c43b9d773fb0c0d66[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Tue Feb 4 13:22:11 2025 -0300
+
+    Finished day 35. It finished Rain Alert System
+
+[33mcommit 02795837dfeb3e61b4fde271d50ca6fe1d91e38c[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Tue Feb 4 13:10:48 2025 -0300
+
+    Finished day 35. It finished Rain Alert System
+
+[33mcommit aeaf4ffe59c41b6620013c456a7d3cbddc8caa71[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Mon Feb 3 19:00:00 2025 -0300
+
+    Finished day 35. It adds an interface to a quiz and use an API for refresh the questions
+
+[33mcommit 6e5fb0b668cb71ec64ea9c292545d31373e7410f[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Mon Feb 3 10:04:37 2025 -0300
+
+    Finished day 33. It adds ISS alert when pass above your head with API
+
+[33mcommit 7f5bfab6f3edb86c4b2d7657575b1206a361fe3a[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Sun Feb 2 15:13:17 2025 -0300
+
+    Finished day 32. It adds Happy birthday email automation
+
+[33mcommit 09a6ab608b1ff4edfa02486404bcb18591ed49c0[m
+Merge: fe6eb4f 210219a
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Sat Feb 1 16:22:21 2025 -0300
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit fe6eb4f2c82fca2c443d4401bfc12f0f2698cbbd[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Sat Feb 1 16:09:20 2025 -0300
+
+    Finished day 31. It adds Flashcard app
+
+[33mcommit 210219aa4120e939eb7235398d13bc5d2333a876[m
+Author: João Pedro Leite Calsavara <108744223+JPCalsavara@users.noreply.github.com>
+Date:   Sat Feb 1 16:04:53 2025 -0300
+
+    Update README.md
+
+[33mcommit 9b66d8a035d18768a5c2369c0d08909f072c8208[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Fri Jan 31 18:52:39 2025 -0300
+
+    Finished day 30. It add to Password Manager a search functionality and upgrade the NATO Alphabet
+
+[33mcommit cdecb9e45db4333a1b0cda7c80d1752ed1bc0b77[m
+Author: João Pedro Leite Calsavara <108744223+JPCalsavara@users.noreply.github.com>
+Date:   Fri Jan 31 18:51:40 2025 -0300
+
+    Update README.md
+
+[33mcommit a994452e45e95e2d4353f4f24ae2c4d152c22197[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Fri Jan 31 15:01:29 2025 -0300
+
+    Finished day 29. It finished Password Manager
+
+[33mcommit 49592f1a86d1d30a6adf8a1dfb361d652db15d21[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Thu Jan 30 19:18:50 2025 -0300
+
+    Finished day 29. It finished Password Manager
+
+[33mcommit f5f78e64eeec9782f579854dd16deb5ef3e9ccff[m
+Merge: 3eb4db0 91afb72
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Wed Jan 29 22:08:19 2025 -0300
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 3eb4db0e402f57880f1213b3e2b74c37919e8183[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Wed Jan 29 22:08:05 2025 -0300
+
+    Finished day 28. It finished Pomodoro´s project and it begin the Carota´s project
+
+[33mcommit 91afb72285e22a7e7dffedf14bc299464a647d96[m
+Author: João Pedro Leite Calsavara <108744223+JPCalsavara@users.noreply.github.com>
+Date:   Wed Jan 29 18:55:50 2025 -0300
+
+    Update README.md
+
+[33mcommit 1ee1d6058f8d11eccb6e7da8200efc27cb8d7d8e[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Wed Jan 29 11:05:48 2025 -0300
+
+    Started day 28. Create the UI from Pomodoro´s project
+
+[33mcommit 3ca6393aefa064135cc1a0eefdc6baf3c9e7b0a3[m
+Merge: fe5ecd2 0aff1de
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Tue Jan 28 18:04:54 2025 -0300
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit fe5ecd25818f700a6e61db35cbd1bad1554b94dd[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Tue Jan 28 18:04:37 2025 -0300
+
+    I dont know
+
+[33mcommit 0aff1de23158490f82e4df274ef917997bb4fddc[m
+Author: João Pedro Leite Calsavara <108744223+JPCalsavara@users.noreply.github.com>
+Date:   Tue Jan 28 17:41:26 2025 -0300
+
+    Update README.md
+
+[33mcommit 1c202276ce0c5f65bedce3ad9c81cb6701005726[m
+Author: João Pedro Leite Calsavara <108744223+JPCalsavara@users.noreply.github.com>
+Date:   Tue Jan 28 17:39:59 2025 -0300
+
+    Update README.md
+
+[33mcommit a859983c7c257a9e27851ca2180d39dd86d87ea6[m
+Author: João Pedro Leite Calsavara <108744223+JPCalsavara@users.noreply.github.com>
+Date:   Tue Jan 28 17:38:58 2025 -0300
+
+    Update README.md
+
+[33mcommit 820f9a7025741d12d2d3f9a6a881a59e89d6d5fd[m
+Author: João Pedro Leite Calsavara <108744223+JPCalsavara@users.noreply.github.com>
+Date:   Tue Jan 28 17:34:02 2025 -0300
+
+    Update README.md
+
+[33mcommit fa3a04c8e744af7fa2c947c4403178cc3b22ad6a[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Tue Jan 28 17:24:32 2025 -0300
+
+    Finished day 27 using starting to use TK GUI and learning Arguments with default values,Unlimited Position Arguments(*args) and Unlimited Key Words Arguments(**kwargs)
+
+[33mcommit f19ee3c70e7e3e6d34e9ef7dd3e1ab1711964cc0[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Tue Jan 28 10:40:50 2025 -0300
+
+    Started day 27 using TK GUI
+
+[33mcommit ab2db0a15a9e0066f4d333ee19fcdfe1b5698f69[m
+Author: João Pedro Leite Calsavara <108744223+JPCalsavara@users.noreply.github.com>
+Date:   Mon Jan 27 18:01:51 2025 -0300
+
+    Update README.md
+
+[33mcommit eaf5536a45a34ba0dd3c6be7f5170c8d0bb42eb4[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Mon Jan 27 10:01:52 2025 -0300
+
+    Finished the US States Game, create a variate with Brazil's States, and begin the day 26
+
+[33mcommit aa52dce44a6c07e5fe7609b833deafbfe9863478[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Fri Jan 24 19:28:01 2025 -0300
+
+    Start to use pandas and start of new project
+
+[33mcommit 03892fe06d3cf3cddcd44a7e99013701ca4223b1[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Fri Jan 24 13:40:58 2025 -0300
+
+    Start to use files
+
+[33mcommit aaea6caf8dd5e477e706e31f52c8059beefd90e5[m
+Merge: 65959cc c86f0e4
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Fri Jan 24 13:40:50 2025 -0300
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 65959ccc5b47bdf0ccebd553b8ffc47dd0b29cad[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Fri Jan 24 13:40:12 2025 -0300
+
+    Start to use files
+
+[33mcommit c86f0e4af8f84756765cfa696392d0b41f12b43a[m
+Author: João Pedro Leite Calsavara <108744223+JPCalsavara@users.noreply.github.com>
+Date:   Wed Jan 22 21:25:54 2025 -0300
+
+    Update README.md
+
+[33mcommit 41b86205ca07a2e2acef992e801772c670b4a85d[m
+Author: João Pedro Leite Calsavara <108744223+JPCalsavara@users.noreply.github.com>
+Date:   Wed Jan 22 21:25:32 2025 -0300
+
+    Update README.md
+
+[33mcommit 0e7ae3ba8a1341f91ba95b74f6dc91be3e615d38[m
+Author: João Pedro Leite Calsavara <108744223+JPCalsavara@users.noreply.github.com>
+Date:   Wed Jan 22 21:23:54 2025 -0300
+
+    Update README.md
+
+[33mcommit 08cff79b76bd1e4efd8ced2944ea23e8efb737a2[m
+Author: João Pedro Leite Calsavara <108744223+JPCalsavara@users.noreply.github.com>
+Date:   Wed Jan 22 21:22:44 2025 -0300
+
+    Update README.md
+
+[33mcommit 92f5755790c4b5d27d67f7a92fb42c4d5f8b6bc0[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Wed Jan 22 18:37:37 2025 -0300
+
+    Pong and Turtle Cross conclude
+
+[33mcommit 1c1a49cd1c401700f4ff4378cdaeac99b9dd7970[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Wed Jan 22 09:32:03 2025 -0300
+
+    Day 18,19 and 20
+
+[33mcommit 735f388b81155eeece4080a78c9626a674c28470[m
+Author: jpcal <jpcalsavara@gmail.com>
+Date:   Tue Jan 21 13:47:49 2025 -0300
+
+    Day 18,19 and 20
+
+[33mcommit 4c402544a9f053a6e708b9960341f52f76a54179[m
+Author: JPCalsavara <jpcalsavara@gmail.com>
+Date:   Fri Jan 17 18:31:12 2025 -0300
+
+    Started days 15 and 16 and using extern libs
+
+[33mcommit f23b0b118908dd9baf926cce0d60f19f30811f65[m
+Merge: 3d1ff25 d9bfed0
+Author: JPCalsavara <jpcalsavara@gmail.com>
+Date:   Wed Jan 15 16:30:15 2025 -0300
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 3d1ff25c4eb2dfd175b5aeb4d07ff46fd2d8e38b[m
+Author: JPCalsavara <jpcalsavara@gmail.com>
+Date:   Mon Jan 13 15:41:16 2025 -0300
+
+    intermediate
