@@ -4,93 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83e34aaa-1a7a-4729-9c79-ccf43ad715ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/100-Days-of-Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workout_tracker/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100 of Python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/birthday-wisher/birthdays.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/birthday-wisher/letter_templates/letter_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/birthday-wisher/letter_templates/letter_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/birthday-wisher/letter_templates/letter_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/birthday-wisher/letter_templates/letter_of_love.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/birthday-wisher/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/flash-card/data/french_words.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/flash-card/data/words_to_learn.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/flash-card/images/card_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/flash-card/images/card_front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/flash-card/images/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/flash-card/images/wrong.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/flash-card/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/hirst_painting/image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/hirst_painting/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/issoverhead/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/issoverhead/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/kanye-quotes/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/kanye-quotes/kanye.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/kanye-quotes/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mail_merge_project/Input/Letters/starting_letter.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mail_merge_project/Input/Names/invited_names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mail_merge_project/Output/ReadyToSend/example.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mail_merge_project/Output/ReadyToSend/letter_for_Aang.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mail_merge_project/Output/ReadyToSend/letter_for_Appa.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mail_merge_project/Output/ReadyToSend/letter_for_Katara.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mail_merge_project/Output/ReadyToSend/letter_for_Momo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mail_merge_project/Output/ReadyToSend/letter_for_Sokka.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mail_merge_project/Output/ReadyToSend/letter_for_Toph.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mail_merge_project/Output/ReadyToSend/letter_for_Uncle Iroh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mail_merge_project/Output/ReadyToSend/letter_for_Zuko.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mail_merge_project/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/mile_to_km_converter/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/nato_project/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/nato_project/nato_phonetic_alphabet.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/oop_coffee_machine/coffee_maker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/oop_coffee_machine/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/oop_coffee_machine/menu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/oop_coffee_machine/money_machine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/password-manager/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/password-manager/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/password-manager/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/password-manager/password_generator_modify/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/pomodoro_timer/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/pomodoro_timer/tomato.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/pong_game/ball.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/pong_game/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/pong_game/paddle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/pong_game/scoreboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/quiz_game_start/data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/quiz_game_start/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/quiz_game_start/question_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/quiz_game_start/quiz_brain.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/quizzler-app/data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/quizzler-app/images/false.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/quizzler-app/images/true.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/quizzler-app/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/quizzler-app/question_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/quizzler-app/quiz_brain.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/quizzler-app/ui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/snake_game/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/snake_game/food.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/snake_game/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/snake_game/scoreboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/snake_game/snake.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/turtle_crossing/car.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/turtle_crossing/character.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/turtle_crossing/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/turtle_crossing/scoreboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/turtle_race/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/us_states_game/50_states.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/us_states_game/blank_states_img.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/us_states_game/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediate/us_states_game/states_to_learn.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rain_alert/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-news-normal-start/.project_config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-news-normal-start/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-news-normal-start/test.py" beforeDir="false" />
+    <list default="true" id="83e34aaa-1a7a-4729-9c79-ccf43ad715ac" name="Changes" comment="Add an API and no API directory and update the repository to hide my API keys without secrets problems. Update the days 36,37 and 38">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workout_tracker/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/workout_tracker/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,36 +16,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JPCalsavara"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JPCalsavara&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JPCalsavara/100-Days-of-Python.git",
-    "accountId": "f1b4ce1d-c0e8-4bc2-8dd7-cb0f0cddf131"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JPCalsavara/100-Days-of-Python.git&quot;,
+    &quot;accountId&quot;: &quot;f1b4ce1d-c0e8-4bc2-8dd7-cb0f0cddf131&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2sdCYHUvUvcPAgAOyKftp9L2ArD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -146,6 +62,27 @@
       <option name="presentableId" value="Default" />
       <updated>1738776112525</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add an API and no API directory and update the repository to hide my API keys without secrets problems. Update the days 36,37 and 38">
+      <option name="closed" value="true" />
+      <created>1738845625867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738845625867</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add an API and no API directory and update the repository to hide my API keys without secrets problems. Update the days 36,37 and 38">
+      <option name="closed" value="true" />
+      <created>1738845655311</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738845655311</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add an API and no API directory and update the repository to hide my API keys without secrets problems. Update the days 36,37 and 38" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add an API and no API directory and update the repository to hide my API keys without secrets problems. Update the days 36,37 and 38" />
   </component>
 </project>
