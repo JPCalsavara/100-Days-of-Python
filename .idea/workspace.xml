@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83e34aaa-1a7a-4729-9c79-ccf43ad715ac" name="Changes" comment="Add an API and no API directory and update the repository to hide my API keys without secrets problems. Update the days 36,37 and 38">
+    <list default="true" id="83e34aaa-1a7a-4729-9c79-ccf43ad715ac" name="Changes" comment="I Finished the project of day 38. Use Two APIs to get my exercises and put in a Google sheet table">
+      <change afterPath="$PROJECT_DIR$/intermediate/use_api/flight-deals/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate/use_api/flight-deals/flight_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate/use_api/flight-deals/flight_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate/use_api/flight-deals/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate/use_api/flight-deals/notification_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate/use_api/flight-deals/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workout_tracker/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/workout_tracker/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/habit_tracker/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/use_api/habit_tracker/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediate/use_api/stock-news-normal-start/.project_config" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/use_api/stock-news/.project_config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediate/use_api/stock-news-normal-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/use_api/stock-news/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediate/use_api/stock-news-normal-start/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/use_api/stock-news/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workout_tracker/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/use_api/workout_tracker/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +47,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.data_manager.executor": "Run",
+    "Python.flight_data.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.notification_manager.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/100-Days-of-Python/intermediate/use_api/flight-deals"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\100-Days-of-Python\intermediate\use_api\flight-deals" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\100-Days-of-Python\intermediate\use_api" />
+      <recent name="C:\100-Days-of-Python\Day+40+Flight+Search+Amadeus+Start" />
+      <recent name="C:\100-Days-of-Python\flight-deals-start" />
+      <recent name="C:\100-Days-of-Python" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,11 +103,20 @@
       <option name="project" value="LOCAL" />
       <updated>1738845655311</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="I Finished the project of day 38. Use Two APIs to get my exercises and put in a Google sheet table">
+      <option name="closed" value="true" />
+      <created>1738848241291</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738848241291</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add an API and no API directory and update the repository to hide my API keys without secrets problems. Update the days 36,37 and 38" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add an API and no API directory and update the repository to hide my API keys without secrets problems. Update the days 36,37 and 38" />
+    <MESSAGE value="I Finished the project of day 38. Use Two APIs to get my exercises and put in a Google sheet table" />
+    <option name="LAST_COMMIT_MESSAGE" value="I Finished the project of day 38. Use Two APIs to get my exercises and put in a Google sheet table" />
   </component>
 </project>
