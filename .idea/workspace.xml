@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83e34aaa-1a7a-4729-9c79-ccf43ad715ac" name="Changes" comment="I Finished the project of 46, but Date Billboard playlist">
+    <list default="true" id="83e34aaa-1a7a-4729-9c79-ccf43ad715ac" name="Changes" comment="I Finished the project of 47">
       <change afterPath="$PROJECT_DIR$/amazon_price_check/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/billboard_playlist/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/use_api/billboard_playlist/main.py" afterDir="false" />
@@ -120,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739570198489</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="I Finished the project of 47">
+      <option name="closed" value="true" />
+      <created>1739884571418</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739884571418</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -128,6 +136,7 @@
     <MESSAGE value="I Finished the project of day 38. Use Two APIs to get my exercises and put in a Google sheet table" />
     <MESSAGE value="I Finished the project of 40, but I don't know what I'm doing kkkk" />
     <MESSAGE value="I Finished the project of 46, but Date Billboard playlist" />
-    <option name="LAST_COMMIT_MESSAGE" value="I Finished the project of 46, but Date Billboard playlist" />
+    <MESSAGE value="I Finished the project of 47" />
+    <option name="LAST_COMMIT_MESSAGE" value="I Finished the project of 47" />
   </component>
 </project>
