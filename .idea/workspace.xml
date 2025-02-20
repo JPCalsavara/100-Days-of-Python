@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83e34aaa-1a7a-4729-9c79-ccf43ad715ac" name="Changes" comment="I Finished the project of 47">
-      <change afterPath="$PROJECT_DIR$/amazon_price_check/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto_swipe_tinder/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/48_day/challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/48_day/interaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/48_day/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days/48_day/selenium_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate/automation/aplication_boot/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate/automation/cookie_clicker/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billboard_playlist/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/use_api/billboard_playlist/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billboard_playlist/token.txt" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/use_api/billboard_playlist/token.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_price_check/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/use_api/amazon_price_check/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediate/use_api/billboard_playlist/token.txt" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/use_api/billboard_playlist/token.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +47,13 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.challenge.executor&quot;: &quot;Run&quot;,
     &quot;Python.data_manager.executor&quot;: &quot;Run&quot;,
     &quot;Python.flight_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interaction.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.notification_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium_test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -57,11 +66,11 @@
       <recent name="C:\100-Days-of-Python\intermediate\use_api\flight-deals" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\100-Days-of-Python\intermediate\automation" />
+      <recent name="C:\100-Days-of-Python\intermediate" />
+      <recent name="C:\100-Days-of-Python\intermediate\no_api" />
       <recent name="C:\100-Days-of-Python\intermediate\use_api" />
       <recent name="C:\100-Days-of-Python" />
-      <recent name="C:\100-Days-of-Python\days\45_day" />
-      <recent name="C:\100-Days-of-Python\bs4-start" />
-      <recent name="C:\100-Days-of-Python\Day+40+Flight+Search+Amadeus+Start" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -128,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739884571418</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="I Finished the project of 47">
+      <option name="closed" value="true" />
+      <created>1739884599556</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739884599556</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
