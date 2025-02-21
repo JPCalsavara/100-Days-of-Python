@@ -5,8 +5,8 @@ from environs import Env
 from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException
 from time import sleep
 
-FB_EMAIL = YOUR FACEBOOK LOGIN EMAIL
-FB_PASSWORD = YOUR FACEBOOK PASSWORD
+# FB_EMAIL = YOUR FACEBOOK LOGIN EMAIL
+# FB_PASSWORD = YOUR FACEBOOK PASSWORD
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
