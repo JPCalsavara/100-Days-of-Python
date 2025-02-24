@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83e34aaa-1a7a-4729-9c79-ccf43ad715ac" name="Changes" comment="I Finished the project of 51">
-      <change afterPath="$PROJECT_DIR$/intermediate/automation/instagram_follower/main.py" afterDir="false" />
+    <list default="true" id="83e34aaa-1a7a-4729-9c79-ccf43ad715ac" name="Changes" comment="I Finished the project of 52">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internet_complaint/internet_speed_twitter_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/automation/internet_complaint/internet_speed_twitter_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internet_complaint/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/automation/internet_complaint/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renting_review/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/renting_review/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740149133290</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="I Finished the project of 52">
+      <option name="closed" value="true" />
+      <created>1740401442285</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740401442285</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,6 +173,7 @@
     <MESSAGE value="I Finished the project of 47" />
     <MESSAGE value="I Finished the project of 48,49 and not 50" />
     <MESSAGE value="I Finished the project of 51" />
-    <option name="LAST_COMMIT_MESSAGE" value="I Finished the project of 51" />
+    <MESSAGE value="I Finished the project of 52" />
+    <option name="LAST_COMMIT_MESSAGE" value="I Finished the project of 52" />
   </component>
 </project>
