@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83e34aaa-1a7a-4729-9c79-ccf43ad715ac" name="Changes" comment="I Finished the project of 48,49 and not 50">
-      <change afterPath="$PROJECT_DIR$/internet_complaint/internet_speed_twitter_bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internet_complaint/main.py" afterDir="false" />
+    <list default="true" id="83e34aaa-1a7a-4729-9c79-ccf43ad715ac" name="Changes" comment="I Finished the project of 51">
+      <change afterPath="$PROJECT_DIR$/intermediate/automation/instagram_follower/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auto_swipe_tinder/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/automation/auto_swipe_tinder/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internet_complaint/internet_speed_twitter_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/automation/internet_complaint/internet_speed_twitter_bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internet_complaint/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/automation/internet_complaint/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.challenge.executor": "Run",
-    "Python.data_manager.executor": "Run",
-    "Python.flight_data.executor": "Run",
-    "Python.interaction.executor": "Run",
-    "Python.internet_speed_twitter_bot.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.notification_manager.executor": "Run",
-    "Python.selenium_test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/100-Days-of-Python/intermediate/use_api/flight-deals"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.challenge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flight_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interaction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.internet_speed_twitter_bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.notification_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium_test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/100-Days-of-Python/intermediate/use_api/flight-deals&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\100-Days-of-Python\intermediate\use_api\flight-deals" />
@@ -148,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740055415029</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="I Finished the project of 51">
+      <option name="closed" value="true" />
+      <created>1740149133290</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740149133290</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,6 +166,7 @@
     <MESSAGE value="I Finished the project of 46, but Date Billboard playlist" />
     <MESSAGE value="I Finished the project of 47" />
     <MESSAGE value="I Finished the project of 48,49 and not 50" />
-    <option name="LAST_COMMIT_MESSAGE" value="I Finished the project of 48,49 and not 50" />
+    <MESSAGE value="I Finished the project of 51" />
+    <option name="LAST_COMMIT_MESSAGE" value="I Finished the project of 51" />
   </component>
 </project>

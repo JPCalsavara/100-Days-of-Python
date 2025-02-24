@@ -1,3 +1,5 @@
+from time import sleep
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -31,11 +33,11 @@ class InternetSpeedTwitterBot:
     def get_internet_speed(self):
         """Realiza o teste de velocidade no Speedtest.net"""
         self.driver.get("https://www.speedtest.net/")
-        time.sleep(3)
+
 
         # Aceitar os cookies, se necessário
         try:
-            accept_button = WebDriverWait(self.driver, 10).until(
+            accept_button = WebDriverWait(self.driver, 5).until(
                 EC.element_to_be_clickable((By.ID, "onetrust-accept-btn-handler"))
             )
             accept_button.click()
@@ -43,20 +45,20 @@ class InternetSpeedTwitterBot:
             pass  # Se não aparecer, continua normalmente
 
         # Clicar no botão de iniciar o teste
-        start_button = WebDriverWait(self.driver, 10).until(
+        start_button = WebDriverWait(self.driver, 5).until(
             EC.element_to_be_clickable((By.CLASS_NAME, "start-button"))
         )
         start_button.click()
 
         # Esperar o teste terminar
-        time.sleep(45)
+        sleep(35)
 
         # Capturar as velocidades de download e upload
-        self.down = WebDriverWait(self.driver, 20).until(
+        self.down = WebDriverWait(self.driver, 10).until(
             EC.presence_of_element_located((By.CLASS_NAME, "download-speed"))
         ).text
 
-        self.up = WebDriverWait(self.driver, 20).until(
+        self.up = WebDriverWait(self.driver, 10).until(
             EC.presence_of_element_located((By.CLASS_NAME, "upload-speed"))
         ).text
 
@@ -72,7 +74,7 @@ class InternetSpeedTwitterBot:
     def tweet_at_provider(self):
         """Posta um tweet reclamando da velocidade de internet se estiver abaixo do esperado"""
         self.driver.get("https://twitter.com/i/flow/login")
-        time.sleep(3)
+
 
         # Inserir email
         email_input = WebDriverWait(self.driver, 10).until(
@@ -80,7 +82,7 @@ class InternetSpeedTwitterBot:
         )
         email_input.send_keys(TWITTER_EMAIL)
         email_input.send_keys(Keys.ENTER)
-        time.sleep(3)
+
 
         # Inserir senha
         password_input = WebDriverWait(self.driver, 10).until(
@@ -88,7 +90,7 @@ class InternetSpeedTwitterBot:
         )
         password_input.send_keys(TWITTER_PASSWORD)
         password_input.send_keys(Keys.ENTER)
-        time.sleep(5)
+
 
         # Escrever e postar o tweet
         tweet_text = f"Oi, @Meu_Provedor! Estou pagando por {PROMISED_DOWN}Mbps de download e {PROMISED_UP}Mbps de upload, mas estou recebendo {self.down}Mbps e {self.up}Mbps! O que está acontecendo? #InternetLenta"
