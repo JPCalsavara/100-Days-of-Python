@@ -99,7 +99,7 @@ Para rodar o projeto, execute o arquivo principal, geralmente main.py:
 To run the project, execute the main file, usually main.py:
 
    ```bash
-   python main.py
+   python hello.py
    ```
 Agora você está pronto para explorar e executar qualquer projeto deste repositório! 🚀
 Now you're ready to explore and run any project in this repository! 🚀
